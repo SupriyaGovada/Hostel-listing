@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hostel Listing</string>
+    <string name="signin">Sign In</string>
+    <string name="mobile_num">Mobile Number</string>
+    <string name="new_to_hostel_listing">New to Hostel Listing? Sign Up</string>
+    <string name="hello_user">Hello User!</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="otp">-</string>
+    <string name="Email">Email</string>
+    <string name="Name">Name</string>
+    <string name="Mnumber">Mobile Number</string>
+</resources>
